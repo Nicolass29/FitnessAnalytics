@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="fitnessanalytics.client/fitnessanalytics.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="FitnessAnalytics.Server/FitnessAnalytics.Server.csproj" />
+</Solution>
